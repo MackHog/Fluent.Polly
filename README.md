@@ -1,2 +1,2 @@
-# Fluent.Polly
+# Fluent.Retry
 Fluent retry based on Polly
